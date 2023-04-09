@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1>Hi There! I am Jared</h1>
+<h2>Here are some things about me</h2>
+
+<h1>I am a React enthusiast, but here are some of my other skills</h1>
+<p align="center">
+  <img src="https://dawaad-dawaad.vercel.app/api/skills">
+</p>
 
 <!--
 **Dawaad/Dawaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
