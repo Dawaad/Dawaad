@@ -1,8 +1,5 @@
 <h1>Hi There! I am Jared</h1>
 <br/>
-I am a passionate Frontend Developer
-
-<h1>About Me</h1>
 
 <h1>Github Stats</h2>
 
