@@ -1,5 +1,12 @@
-<h1>Hi There! I am Jared</h1>
+<h1>Hi There! I am Jared.</h1>
 <br/>
+
+**About me**
+
+
+- ❤️ I love writing in TypeScript, and creating Frontend Designs
+- 📈 I'm currently learning Swift and React Native for mobile application development
+- 💬 Ask me about anything [here](https://www.jtucker.io/contact);
 
 <h1>Github Stats</h2>
 
