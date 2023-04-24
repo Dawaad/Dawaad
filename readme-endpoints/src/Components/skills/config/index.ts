@@ -7,7 +7,7 @@ import css from './css';
 import python from './python';
 import react from './react';
 import git from './git'
-export const PATHS: object = {
+export const PATHS = {
   javascript,
   typescript,
   java,

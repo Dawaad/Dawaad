@@ -5,6 +5,7 @@ import React from "react";
 import { PATHS, SKILLS_CSS } from "./config";
 import ConvertSVG from "../general/ConvertSVG";
 import Icon from "./Icon";
+import { ISVGPath } from "@/Types/ISVGPath";
 
 export interface ISkillsParameters {
   skills: string[];
@@ -28,7 +29,7 @@ export const Skills = ({
             width="70px"
             key={`icon-${skillName}`}
             name={skillName}
-            skill={(PATHS as any)[skillName]}
+            skill={(PATHS as Record<string,ISVGPath[]>)[skillName]}
           />
         ))}
       </div>
