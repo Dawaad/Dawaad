@@ -1,13 +1,14 @@
 import javascript from "./javascript";
 import typescript from "./typescript";
-import java from './java';
-import node from './node';
-import html from './html';
-import css from './css';
-import python from './python';
-import react from './react';
-import git from './git'
-export const PATHS = {
+import { ISVGPath } from "@/Types/ISVGPath";
+import java from "./java";
+import node from "./node";
+import html from "./html";
+import css from "./css";
+import python from "./python";
+import react from "./react";
+import git from "./git";
+export const PATHS: Record<string, ISVGPath[]> = {
   javascript,
   typescript,
   java,
@@ -16,7 +17,7 @@ export const PATHS = {
   css,
   python,
   react,
-  git
+  git,
 };
 
 export const SKILLS_CSS = `

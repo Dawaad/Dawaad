@@ -29,7 +29,7 @@ export const Skills = ({
             width="70px"
             key={`icon-${skillName}`}
             name={skillName}
-            skill={(PATHS as Record<string,ISVGPath[]>)[skillName]}
+            skill={(PATHS)[skillName]}
           />
         ))}
       </div>
