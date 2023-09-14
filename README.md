@@ -5,6 +5,7 @@
 
 
 - ❤️ My favourite languages are Typescript and Java
+- 🔭 I am an amateur bodybuilder competing soon in the classic division
 - 📈 I'm currently focusing on developing my C# and Java skills for better backend development
 - 💬 Ask me about anything [here](https://www.jtucker.io/contact);
 
