@@ -4,8 +4,8 @@
 **About me**
 
 
-- ❤️ I love writing in TypeScript, and creating Frontend Designs
-- 📈 I'm currently learning Swift and React Native for mobile application development
+- ❤️ My favourite languages are Typescript and Java
+- 📈 I'm currently focusing on developing my C# and Java skills for better backend development
 - 💬 Ask me about anything [here](https://www.jtucker.io/contact);
 
 <h1>Github Stats</h2>
