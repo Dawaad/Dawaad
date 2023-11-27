@@ -14,7 +14,7 @@
 | ------------- | ------------- |
 
 <br/>
-<h1>I am a React enthusiast, but here are some of my other skills</h1>
+<h1>Key Skills</h1>
 <p align="center">
   <img src="https://dawaad-dawaad.vercel.app/api/skills">
 </p>
