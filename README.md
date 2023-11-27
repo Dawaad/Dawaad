@@ -4,9 +4,10 @@
 **About me**
 
 
-- ❤️ My favourite languages are Typescript and Java
-- 📈 I'm currently focusing on developing my C# and Java skills for better backend development
-- 💬 Ask me about anything [here](https://www.jtucker.io/contact);
+- ❤️ I am a Software Engineer in Australia
+- 📈 I am constantly working on additional side projects and other code
+- 🤝 Feel free to reach out about any collaborative work 
+- 💬 You can easily contact me [here](https://www.jtucker.io/contact);
 
 <h1>Github Stats</h2>
 
