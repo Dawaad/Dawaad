@@ -9,7 +9,7 @@
 - 🤝 Feel free to reach out about any collaborative work 
 - 💬 You can easily contact me [here](https://www.jtucker.io/contact);
 
-<h1>Github Stats</h2>
+<h1>Github Stats</h1>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dawaad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dawaad's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawaad&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
