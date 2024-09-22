@@ -1,13 +1,11 @@
-<h1>Hi There! I am Jared.</h1>
+<h1>Hallo</h1>
 <br/>
 
 **About me**
 
 
-- ❤️ I am a Software Engineer in Australia
-- 📈 I am constantly working on additional side projects and other code
-- 🤝 Feel free to reach out about any collaborative work 
-- 💬 You can easily contact me [here](https://www.jtucker.io/contact);
+- I am a Software Engineer in Australia
+- Currently working on my side project @ https://github.com/flexe-dev
 
 <h1>Github Stats</h1>
 
