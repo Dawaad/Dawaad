@@ -5,7 +5,7 @@
 
 
 - I am a Software Engineer in Australia
-- Currently working on my side project @ https://github.com/flexe-dev
+- Currently working on my (extremely egregiously large) side project @ https://github.com/flexe-dev
 
 <h1>Github Stats</h1>
 
