@@ -4,8 +4,7 @@
 **About me**
 
 
-- I am a Software Engineer in Australia
-- Currently working on my (extremely egregiously large) side project @ https://github.com/flexe-dev
+- I am an Australian based Fullstack Software Engineer on the hunt to create the next big start up.
 
 <h1>Github Stats</h1>
 
