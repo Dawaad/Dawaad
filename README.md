@@ -4,7 +4,7 @@
 **About me**
 
 
-- I am an Australian based Fullstack Software Engineer on the hunt to create the next big start up.
+- I am an Australian Fullstack Software Engineer.
 
 <h1>Github Stats</h1>
 
