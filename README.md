@@ -1,8 +1,7 @@
 <h1>Hallo</h1>
-<br/>
-
 ## **I am Software Engineer at Leidos Australia**
 
+<br/>
 Working on a cool new project @ https://github.com/yoku-app
 
 <!--
