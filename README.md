@@ -1,8 +1,4 @@
-# Hallo 
-## I am Software Engineer at Leidos Australia
 
-
-Working on a cool new project @ https://github.com/yoku-app
 
 <!--
 **Dawaad/Dawaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
