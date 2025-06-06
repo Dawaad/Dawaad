@@ -1,6 +1,6 @@
 Hi. I am Jared! I am a Software Engineer and a Web solution specialist. <br/>
 I bring many years of experience ranging from enterprise level software solutions, to assistance and web infrastructure for small businesses looking to build an online platform. <br/>
-For all enquiries in regards to upcoming projects or to speak to me about the services I provide. Please contact me at **jntucker@gmail.com**
+For all enquiries in regards to upcoming projects or to speak to me about the services I provide. Please contact me at **jntucker02@gmail.com**
 
 <!--
 **Dawaad/Dawaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
