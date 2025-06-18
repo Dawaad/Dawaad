@@ -1,5 +1,5 @@
 ## Hi I'm Jared. 
-### I am a Software Engineer and a Web solution specialist. 
+### I am a Software Engineer
 
 I bring many years of experience ranging from enterprise level software solutions, to assistance and web infrastructure for small businesses looking to build an online platform. 
 
